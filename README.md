@@ -1,0 +1,2 @@
+# pečenko
+čitač efaktura
