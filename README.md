@@ -1,2 +1,2 @@
-# pe-enko
+# pečenko
 čitač efaktura
